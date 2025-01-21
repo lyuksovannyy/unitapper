@@ -26,7 +26,7 @@ Installation is very easy, all you need is:
 
 # Setup
 ## Adding account
-- At fist start when you have no accounts, you'll prompted to add you account to script, follow instructions that script says to add account.
+- At first start when you have no accounts, you'll be prompted to add your account to script, follow instructions that script says to add account.
 - After successfully adding account to script you can start it, it will prepare all sessions for clickers and will work asynchronously.
 ## Proxies
 - You can add proxies for your accounts to avoid ban for multiple-accounts in clicker games.
