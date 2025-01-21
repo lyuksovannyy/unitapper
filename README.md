@@ -21,6 +21,7 @@ Installation is very easy, all you need is:
 - Unarchive this project to any directory you want and open it.
 - Open console inside the folder (in search bar write: `cmd`).
 - Write in cmd `pip install -r requirements.txt` it will install all mandatory dependencies for you.
+- Rename `.env.example` to `.env` and adjust settings for your needs (API_ID, API_HASH are mandatory to add new accounts).
 - After installation completed, write `python3 __main__.py`
 
 # Setup
