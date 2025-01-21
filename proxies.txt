@@ -1,0 +1,7 @@
+# supports socks4, socks5, http, https
+# supports authorization aswell
+# example how to provide proxies: (without hashtag "#")
+# session1 http://proxy_host:proxy_port
+# session2 socks5://proxy_host:proxy_port
+# session3 https://username:password@proxy_host:proxy_port
+# session4 socks4://username:password@proxy_host:proxy_port

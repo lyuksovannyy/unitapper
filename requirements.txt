@@ -1,0 +1,14 @@
+colorama
+asyncio
+aiohttp
+aiohttp_socks
+pyrogram
+python-dotenv
+aiosqlite
+ua-generator
+datetime
+TgCrypto
+panel
+watchfiles
+pygments
+pycryptodomex
