@@ -2,7 +2,7 @@
 Open-Source script with easy telegram account handling and using it for telegram crypto clicker bots
 
 # Features
-- Asynchrous
+- Asynchronous
 - Multi account support
 - Proxy support
 - Simple webpanel with all needed information about your accounts and ability to change config file for every one
